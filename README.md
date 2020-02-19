@@ -9,6 +9,16 @@
 # Hello World
 * [Get Started With Expo](https://expo.io/learn)
 * [React Native(v0.61) - Getting Started](https://facebook.github.io/react-native/docs/getting-started)
+# 專案框架
+````
+/App.jsx
+/AppForm.jsx
+/screens/operation.jsx
+/components/userUX.jsx
+/widgets/basicUI.jsx
+/hooks/useXXX.jsx
+/constants/colors.jsx
+````
 # 一些開發注意事項與觀念
 * React Native無CSS，不過有inline style稱做[StyleSheet](https://docs.expo.io/versions/latest/react-native/stylesheet/)。也就是style組態要全客製化。
 * React Native畫面的layout採用Flex的方法。
