@@ -4,22 +4,21 @@
 
 ## 引言
 也該是時候開始學iOS開發了。   
-開發環境:   
-* React Native 0.61
-* expo sdk: 36.0.0
-* Visual Studio Code v1.42.1
 
 ## 開發環境
-開發IDE:
+* React Native 0.61
+* expo sdk: 36.0.0
+* IDE: Visual Studio Code v1.42.1
 使用expo平台來輔助開發，因為連React Native官網都如此建議。
-* [Get Started With Expo](https://expo.io/learn)
-* [React Native(v0.61) - Getting Started](https://facebook.github.io/react-native/docs/getting-started)
   
 ## Hello World
+* [Get Started With Expo](https://expo.io/learn)
+* [React Native(v0.61) - Getting Started](https://facebook.github.io/react-native/docs/getting-started)
 
 ## 一些開發注意事項與觀念
 * React Native無CSS，不過有inline style稱做[StyleSheet](https://docs.expo.io/versions/latest/react-native/stylesheet/)。也就是style組態要全客製化。
 * 在開發時iOS與Android的模擬器或實機最好同時在旁測試才好發現差異才好即時調整，因為iOS與Android平台在些許規格的實作上仍有差異，比如：Botton的呈現、TextInput的呈現等等等。
+* 更先進的新應用，iOS、Android可能要各做各個獨立的版本。
   
 ## 部署到手機測試
 expo有提供相當好用的機制，於[Expo development tools](https://expo.io/tools),有提供Expo Client for Android & iOS 可與expo平台線上連通方便開發與測試。 
