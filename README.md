@@ -36,6 +36,7 @@ expo開發平台做到了只要手機(行動裝置)有安裝expo client，就可
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 # 拍照&上傳
 # 掃條碼
+# 背景服務/Notification
 # 簽名板
 # 參考
 * [React Native Tutorial for Beginners - Crash Course 2020](https://youtu.be/qSRrxpdMpVc)
